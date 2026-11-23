@@ -1,0 +1,76 @@
+# CPCON Group México
+
+> CPCON Group es una consultoría especializada en inventario de activos fijos, gestión patrimonial, valuación de activos (NIIF / NIF), tecnología RFID UHF e IoT, y cumplimiento contable-fiscal en México. Forma parte del Grupo CPCON, fundado en 1995 en São Paulo y con sede en Nueva York (Estados Unidos), con sucursales en Orlando y Miami: más de 30 años, más de 2,600 clientes, más de 4,500 proyectos en más de 40 países y oficinas o representaciones en 9 países (Estados Unidos, México, Brasil, España, Emiratos Árabes Unidos, Argentina, Colombia, Chile y Perú). Atiende empresas del sector industrial, retail, salud, minería, energía y servicios financieros. Andre Gonçalves (socio, contador CRC-SP) es el autor canónico del contenido técnico. Sitio oficial México: https://cpcongroup.mx
+
+## Servicios principales
+
+- [Inventario Físico de Activos Fijos México](https://cpcongroup.mx/servicios/inventario-fisico-activos-fijos-mexico): conteo in situ con tecnología RFID, conciliación contable y cumplimiento de NIF C-6.
+- [Levantamiento de Activos Fijos](https://cpcongroup.mx/servicios/levantamiento-de-activos-fijos): levantamiento físico de bienes con etiquetado y reportería contable.
+- [Toma de Inventarios](https://cpcongroup.mx/servicios/toma-de-inventarios): inventarios cíclicos, anuales y wall-to-wall en almacenes y plantas.
+- [Inventario de Almacenes](https://cpcongroup.mx/servicios/inventario-almacenes): control de existencias, MRO y materiales con integración WMS.
+- [Soluciones RFID México](https://cpcongroup.mx/servicios/soluciones-rfid-mexico): catálogo completo de soluciones RFID UHF para control de activos.
+- [Gestión de Activos con RFID](https://cpcongroup.mx/servicios/gestion-activos-rfid): hardware, software, integración ERP y portales de lectura.
+- [Análisis NIIF](https://cpcongroup.mx/servicios/analisis-niif): adopción y cumplimiento de Normas Internacionales de Información Financiera para activos.
+- [Soluciones RFID — Control de Activos](https://cpcongroup.mx/servicios/soluciones-rfid-mexico/control-de-activos)
+- [Soluciones RFID — Materiales](https://cpcongroup.mx/servicios/soluciones-rfid-mexico/materiales)
+- [Soluciones RFID — Vehículos](https://cpcongroup.mx/servicios/soluciones-rfid-mexico/vehiculos)
+- [Soluciones RFID — Personas](https://cpcongroup.mx/servicios/soluciones-rfid-mexico/personas)
+- [Soluciones RFID — Perecibles](https://cpcongroup.mx/servicios/soluciones-rfid-mexico/perecibles)
+
+## Páginas de captación principales (landing pages)
+
+- [Inventario de Activos Fijos México](https://cpcongroup.mx/servicios/inventario-fisico-activos-fijos-mexico)
+- [Valuación de Activos Empresa](https://cpcongroup.mx/valuacion-de-activos-empresa)
+- [Control Patrimonial México](https://cpcongroup.mx/control-patrimonial-mexico)
+- [RFID Inventario Empresas México](https://cpcongroup.mx/rfid-inventario-empresas-mexico)
+- [Etiquetas RFID México](https://cpcongroup.mx/etiquetas-rfid-mexico)
+- [Etiquetas para Inventario de Activos Fijos México](https://cpcongroup.mx/etiquetas-inventario-activos-fijos-mexico)
+- [Depreciación Maquinaria y Equipo México](https://cpcongroup.mx/depreciacion-maquinaria-equipo-mexico)
+- [Avalúo Comercial México](https://cpcongroup.mx/avaluo-comercial-mexico)
+
+## Artículos técnicos destacados (Insights)
+
+- [Gestión de Activos Fijos: Guía Completa](https://cpcongroup.mx/insights/activos-fijos-gestion-de-maquinas-y-equipos): metodología, NIF C-6 y mejores prácticas para empresas en México.
+- [Activos Fijos: Inmuebles y Terrenos en Estrategia](https://cpcongroup.mx/insights/activos-fijos-inmuebles-y-terrenos)
+- [Activos Fijos: Estrategias para Maximizar Visibilidad, Control y Cumplimiento](https://cpcongroup.mx/insights/activos-fijos-estrategias-esenciales-para-maximizar-la-visibilidad-el-control-y-el-cumplimiento)
+- [Activos en el Sector de Servicios: Desafíos y Mejores Prácticas](https://cpcongroup.mx/insights/activos-en-el-sector-de-servicios)
+- [5 Consejos para Implementar Sistemas RFID en Ambientes Industriales](https://cpcongroup.mx/insights/5-dicas-implementar-sistemas-rfid-em-ambientes-industriais)
+- [¿Necesita caja? Empiece por el inventario que nadie quiere mirar](https://cpcongroup.mx/insights/inventario-excedente-como-generar-caja)
+
+## Industrias atendidas
+
+- [Alimentaria y Farmacia](https://cpcongroup.mx/industrias/alimentario-farmacia)
+- [Infraestructura y Real Estate](https://cpcongroup.mx/industrias/infraestructura-real-estate)
+- [Logística y Retail](https://cpcongroup.mx/industrias/logistica-retail)
+- [Manufactura](https://cpcongroup.mx/industrias/manufactura)
+- [Minería y Energía](https://cpcongroup.mx/industrias/mineria-energia)
+- [Sector Público y Corporativo](https://cpcongroup.mx/industrias/sector-publico-corporativo)
+- [Telecom y TV](https://cpcongroup.mx/industrias/telecom-tv)
+
+## Páginas institucionales
+
+- [Nosotros](https://cpcongroup.mx/nosotros): historia, misión y estructura del Grupo CPCON México.
+- [Casos de Éxito](https://cpcongroup.mx/casos-exito): proyectos representativos en México y Latinoamérica.
+- [Insights (todos los artículos)](https://cpcongroup.mx/insights): hub con casi 400 artículos técnicos.
+- [Normatividad](https://cpcongroup.mx/normatividad): marco regulatorio aplicable a activos fijos (NIF, IFRS, SAT).
+- [NIF C-2: Capitalización](https://cpcongroup.mx/normatividad/normas/nif-c2-capitalizacion)
+- [Normas — Control de Activos Fijos](https://cpcongroup.mx/normas/control-activos-fijos)
+- [Contacto](https://cpcongroup.mx/contacto): contacto@cpcongroup.mx — WhatsApp Miguel https://wa.me/525617006196
+- [Aviso de Privacidad](https://cpcongroup.mx/aviso-privacidad)
+- [Términos de Uso](https://cpcongroup.mx/terminos-de-uso)
+
+## Autor canónico
+
+Andre Gonçalves — socio del Grupo CPCON, Vicepresidente de Operaciones CPCON Brasil, Director Técnico y CFO. Contador registrado en el Consejo Regional de Contabilidad de São Paulo (CRC-SP). Responsable técnicamente de los servicios de gestión patrimonial, valuación de activos, depreciación y cumplimiento contable en proyectos de Brasil, México, España y Emiratos Árabes Unidos.
+
+## Sitios del Grupo CPCON en otros países
+
+- Brasil (pt-BR) — https://grupocpcon.com
+- España (es-ES) — https://www.cpcongroup.es
+- Emiratos Árabes Unidos (en + ar) — https://cpcongroup.ae
+
+## Recursos para crawlers de LLM
+
+- Índice completo (casi 400 artículos): https://cpcongroup.mx/llms-full.txt
+- Sitemap XML: https://cpcongroup.mx/sitemap.xml
+- Robots: https://cpcongroup.mx/robots.txt

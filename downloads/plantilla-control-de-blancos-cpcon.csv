@@ -1,0 +1,13 @@
+Codigo;Item;Categoria;Sector;Cantidad;En Circulacion;En Lavado;En Stock;Perdidas;Ciclos;Vida Util (ciclos);Estado;Ultima Revision
+BLA-0001;Toalla de bano blanca;Bano;Piso 3 - Habitaciones;600;420;120;48;12;180;250;OK;05/06/2026
+BLA-0002;Toalla de manos blanca;Bano;Piso 3 - Habitaciones;800;560;180;52;8;160;250;OK;05/06/2026
+BLA-0003;Bata de bano adulto;Bano;Piso 4 - Habitaciones;200;150;38;6;6;90;200;REPONER;05/06/2026
+BLA-0004;Sabana individual 100% algodon;Cama;Piso 3 - Habitaciones;500;360;110;25;5;120;200;OK;05/06/2026
+BLA-0005;Funda de almohada 50x70;Cama;Piso 3 - Habitaciones;1000;720;230;48;2;100;200;OK;05/06/2026
+BLA-0006;Edredon matrimonial;Cama;Piso 5 - Habitaciones;180;130;40;6;4;30;150;CRITICO;05/06/2026
+BLA-0007;Mantel rectangular;Mesa;Restaurante / A&B;240;160;60;18;2;75;180;OK;05/06/2026
+BLA-0008;Servilleta de tela;Mesa;Restaurante / A&B;1200;820;320;52;8;140;200;OK;05/06/2026
+BLA-0009;Bata blanca - Enfermeria;Uniformes;Quirofano;150;110;32;5;3;95;150;REPONER;05/06/2026
+BLA-0010;Campo quirurgico esteril;Quirurgico;Quirofano;300;180;100;14;6;60;120;OK;05/06/2026
+BLA-0011;Cobija hospitalaria;Cama;Hospitalizacion - Ala B;220;160;48;9;3;70;150;OK;05/06/2026
+BLA-0012;Pijama de hospitalizacion;Uniformes;Hospitalizacion - Ala B;400;290;95;7;8;110;180;CRITICO;05/06/2026
